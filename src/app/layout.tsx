@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     title: "Recruito AI: Revolutionize Your Hiring Process",
     description:
       "Automate and optimize your hiring with Recruito AI. Source, screen, and interview candidates with AI-powered tools. Find the perfect talent faster.",
-    url: "https://yourwebsite.com",
+    url: "https://recruito-ai-omega.vercel.app/",
     type: "website",
   },
 };
