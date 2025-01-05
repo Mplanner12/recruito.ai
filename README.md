@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Recruito AI: Revolutionize Your Hiring Process
+
+This Next.js project leverages the power of AI to transform how companies source, screen, and select candidates. Recruito AI automates time-consuming tasks, providing data-driven insights to optimize your hiring pipeline and find the perfect talent faster.
+
+## Key Features:
+
+- **AI-Powered Candidate Sourcing:** Automate job posting and actively hunt top candidates across multiple platforms.
+- **Automated Resume Screening & Filtering:** Instantly filter and prioritize resumes based on qualifications and experience.
+- **Online Assessments:** Seamlessly integrate skills and behavioral tests to validate candidate capabilities.
+- **AI Video Interviews:** Analyze candidate speech and body language for both technical and soft skills assessment.
+- **Data-Driven Shortlisting:** Receive pre-sorted candidate lists optimized for top performance.
 
 ## Getting Started
 
-First, run the development server:
+1. **Clone the repository:** `https://github.com/Mplanner12/recruito.ai`
+2. **Install dependencies:** `npm install`
+3. **Run the development server:** `npm run dev`
+4. **Open in your browser:** `http://localhost:3000`
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Next.js
+- Framer Motion (for animations)
+- Tailwind CSS (for styling)
+- Swiper (for carousel)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project is optimized for deployment on Vercel. Follow the standard Vercel deployment process for Next.js applications. You can find more information in the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying).
 
-## Learn More
+## Contributing
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Contributions are welcome! Please open an issue or submit a pull request.
