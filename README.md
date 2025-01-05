@@ -25,6 +25,12 @@ This Next.js project leverages the power of AI to transform how companies source
 - Swiper (for carousel)
 - React Icons (for icons)
 
+to install:
+npm install framer-motion
+npm install tailwindcss postcss autoprefixer
+npm install swiper
+npm install react-icons
+
 ## Deployment
 
 This project is optimized for deployment on Vercel. Follow the standard Vercel deployment process for Next.js applications. You can find more information in the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying).
