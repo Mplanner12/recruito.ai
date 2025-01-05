@@ -4,7 +4,10 @@ import React from "react";
 
 const RequestDemo = () => {
   return (
-    <section className="w-full h-full relative bg-[#fff8fa] py-[5.5rem] flex flex-col items-center text-center">
+    <section
+      id="resources"
+      className="w-full h-full relative bg-[#fff8fa] py-[5.5rem] flex flex-col items-center text-center"
+    >
       {/* Mesh background */}
       <div className="absolute inset-0">
         {/* Left mesh */}

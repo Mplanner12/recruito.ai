@@ -9,7 +9,7 @@ import {
 
 const Footer = () => {
   return (
-    <footer className="w-full bg-[#848EA00D] py-5 border-gray-200">
+    <footer id="contact" className="w-full bg-[#848EA00D] py-5 border-gray-200">
       <div className="mx-auto px-5 md:px-[6rem] flex flex-col md:flex-row justify-between items-center">
         {/* Left Section */}
         <div className="w-full md:w-auto h-full flex flex-col justify-between items-center md:items-start space-y-6">

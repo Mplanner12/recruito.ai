@@ -9,7 +9,7 @@ import { motion } from "framer-motion";
 
 const Features: React.FC = () => {
   return (
-    <div className="bg-[#fff8fa] w-full">
+    <div id="features" className="bg-[#fff8fa] w-full">
       <div className="max-w-7xl mx-auto py-10 px-5">
         <div className="text-center mb-16 flex flex-col justify-start items-center">
           <span className="inline-block bg-inherit text-[#004CD3] px-3.5 py-2 rounded-full text-[0.85rem] mb-4 font-medium border border-[#848EA033]">
