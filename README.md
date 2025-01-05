@@ -23,6 +23,7 @@ This Next.js project leverages the power of AI to transform how companies source
 - Framer Motion (for animations)
 - Tailwind CSS (for styling)
 - Swiper (for carousel)
+- React Icons (for icons)
 
 ## Deployment
 
